@@ -1,8 +1,8 @@
 
 
 ### Hi there 👋, my name is Abu Hosen
-#### I an a Front End Web Developer
-![I an a Front End Web Developer](https://www.facebook.com/photo/?fbid=2132666293752756&set=a.142965766056162)
+#### I am a Front End Web Developer
+
 
 I am passionate about my work. 
 
